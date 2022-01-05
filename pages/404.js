@@ -9,7 +9,7 @@ const NotFound = () => {
                 Not Found
             </Heading>
             <Text>
-                The page you're looking for does not exist.
+                The page you&apos;re looking for does not exist.
             </Text>
             <Divider />
             <Box my={6} align='center'>

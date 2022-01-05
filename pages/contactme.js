@@ -28,12 +28,12 @@ const ContactMe = () => {
             </form>
             <Box align='center' my={4} ml={10}>
                 <Stack align='center' direction='column' spacing={4} my={4}>
-                <a target='_blank' href='https://github.com/bigsaso'>
+                <a target='_blank' rel="noreferrer" href='https://github.com/bigsaso'>
                 <Button leftIcon={<FaGithub />}>
                     My GitHub
                 </Button>
                 </a>
-                <a target='_blank' href='https://www.linkedin.com/in/salvatore-logozzo-b318a71b3/'>
+                <a target='_blank' rel="noreferrer" href='https://www.linkedin.com/in/salvatore-logozzo-b318a71b3/'>
                 <Button leftIcon={<FaLinkedin />} colorScheme='linkedin'>
                     My LinkedIn
                 </Button>

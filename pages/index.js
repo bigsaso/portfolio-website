@@ -30,7 +30,7 @@ const Page = () =>{
                     $whoami
                 </Heading>
                 <Paragraph>
-                Hello! I'm Salvatore and I am a software engineering student based in Toronto, Ontario. I absolutely love computers and have a passion for anything related 
+                Hello! I&apos;m Salvatore and I am a software engineering student based in Toronto, Ontario. I absolutely love computers and have a passion for anything related 
                 to them. I approach every day with the drive to innovate and contribute to society through simplifying daily tasks and solving pressing issues within the 
                 technological space through the utlization of my programming knowledge.<br/><br/>
                 
@@ -67,7 +67,7 @@ const Page = () =>{
                 </BioSec>
                 <BioSec>
                     <BioYear>2014</BioYear>
-                    Started working at my family's tech store, where I started working with computers, phones and TVs, as well as installing 
+                    Started working at my family&apos;s tech store, where I started working with computers, phones and TVs, as well as installing 
                     Wi-Fi routers and antennas.
                 </BioSec>
                 <BioSec>
@@ -80,7 +80,7 @@ const Page = () =>{
                 </BioSec>
                 <BioSec>
                     <BioYear>2019</BioYear>
-                    Started my 1st Year of Software Engineering at Ryerson University and made the Dean's List.
+                    Started my 1st Year of Software Engineering at Ryerson University and made the Dean&apos;s List.
                 </BioSec>
             </Section>
             <Section delay={1}>
@@ -110,7 +110,7 @@ const Page = () =>{
             </Section>
             <footer>
                 <Divider />
-                <p><a href="http://www.freepik.com" target="_blank">Logos Designed by Freepik</a></p>
+                <p><a href="http://www.freepik.com" target="_blank" rel="noreferrer">Logos Designed by Freepik</a></p>
             </footer>
         </Container>
         </Layout>

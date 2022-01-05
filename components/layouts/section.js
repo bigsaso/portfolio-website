@@ -1,7 +1,6 @@
 //This will add an animated scroll to bring the section to life in the screen using framer
 import {motion} from 'framer-motion'
 import {chakra,shouldForwardProp} from '@chakra-ui/react'
-import { Children } from 'react'
 
 const StyledDiv = chakra(motion.div,{
     shouldForwardProp: prop =>{

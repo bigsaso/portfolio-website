@@ -46,7 +46,7 @@ const Experience = () => {
                 </Heading>
                 <Stack direction='row'>
                     <Box w='8xl'>
-                        <Image src={programming} />
+                        <Image src={programming} alt='' />
                         <Heading as='h3' fontSize={15} mb={4} variant='skills'>
                             Software Skills
                         </Heading>
@@ -59,7 +59,7 @@ const Experience = () => {
                         </p>
                     </Box>
                     <Box w='8xl'>
-                        <Image src={hardware}/>
+                        <Image src={hardware} alt='' />
                         <Heading as='h3' fontSize={15} mb={4} variant='skills'>
                             Hardware Skills
                         </Heading>
@@ -70,7 +70,7 @@ const Experience = () => {
                         </p>
                     </Box>
                     <Box w='8xl'>
-                        <Image src={electronics}/>
+                        <Image src={electronics} alt='' />
                         <Heading  as='h3' fontSize={15} mb={4} variant='skills'>
                             Electronics Skills
                         </Heading>
