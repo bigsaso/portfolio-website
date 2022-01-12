@@ -122,7 +122,7 @@ const Experience = () => {
                         • Communicate with clients and/or employees when any type of problem arises.<br/>
                     </JobSec>
                     <JobSec>
-                        <JobYears>Mar. 2019 - Dec. 2021 | Nature's Emporium (Canada)</JobYears>
+                        <JobYears>Mar. 2019 - Dec. 2021 | Nature&apos;s Emporium (Canada)</JobYears>
                         <br/>• Developed communication skills, as well as problem-solving, by assisting customers with product selection and making sure they were happy with their purchases.<br/>
                         • Adapted to every sector of my department, increasing the sales by 20% in a year, while also developing organizational and time management skills.<br/>
                     </JobSec>
