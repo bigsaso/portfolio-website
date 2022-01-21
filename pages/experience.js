@@ -22,22 +22,26 @@ const Experience = () => {
                 </p>
                 <p>
                     <br/>• C/Java/JavaFX Programming<br/>
-                    • Algorithms and Data Structures<br/>
+                    • Advanced Algorithms and Data Structures<br/>
                     • Computer Organization and Architecture &nbsp;
                         <Badge borderRadius='full' px='2' colorScheme='teal'>
-                            Soon
+                            In Progress
                         </Badge><br/>
                     • MCU Programming in Assembly and FPGA board programming<br/>
                     • Electric and Electronic Circuits<br/>
                     • DBMS in Oracle SQL<br/>
                     • Operating Systems &nbsp;
                         <Badge borderRadius='full' px='2' colorScheme='teal'>
-                            Soon
+                            In Progress
                         </Badge><br/>
                     • Software Design Architecture &nbsp;
                         <Badge borderRadius='full' px='2' colorScheme='teal'>
-                            Soon
-                        </Badge>
+                            In Progress
+                        </Badge><br/>
+                    • Software Requirements Engineering &nbsp;
+                    <Badge borderRadius='full' px='2' colorScheme='teal'>
+                        In Progress
+                    </Badge>
                 </p>
             </Section>
             <Section delay={1}>
