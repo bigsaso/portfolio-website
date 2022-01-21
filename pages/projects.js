@@ -9,6 +9,7 @@ import thumbLakes from '../public/images/projects/lakes.png'
 import thumbPC from '../public/images/projects/ryzentosh.jpg'
 import thumbGame from '../public/images/projects/game.png'
 import thumbWeb from '../public/images/projects/website.png'
+import thumbGPU from '../public/images/projects/gpu.jpeg'
 
 const Projects = () => {
     return(
@@ -19,26 +20,33 @@ const Projects = () => {
             </Heading>
             <SimpleGrid columns={[1,1,2]} gap={6}>
                 <Section>
+                    <WorkGridItem title='General Processing Unit' thumbnail={thumbGPU} link='https://github.com/bigsaso/COE328/tree/main/Lab%206/Lab%206'>
+                    Designed all the components in VHDL, such as the ALU, the Control Unit (made of a Moore FSM and a 4-16 Decoder), the Storage Units (D-latches), 
+                    and the SSEG. Verified the overall design with rigorous and multiple test cases on Quartus.<br/>
+                    <Badge>Private repo</Badge>
+                    </WorkGridItem>
+                </Section>
+                <Section>
                     <WorkGridItem title='Ryzentosh' thumbnail={thumbPC} link='https://github.com/bigsaso/Ryzentosh'>
                         Installed MacOS on custom-built PC with AMD Ryzen 5 3400G and Radeon RX 580.
                     </WorkGridItem>
                 </Section>
                 <Section>
                     <WorkGridItem title='Bookstore App' thumbnail={thumbBookstore} link='https://github.com/bigsaso/Bookstore_app'>
-                        A BookStore App made with JavaFX.<br/>
+                        Developed a BookStore App starting from the design of Use Case Diagram and Class Diagrams. Then, implemented it with JavaFX.<br/>
                         <Badge>Private repo</Badge>
                     </WorkGridItem>
                 </Section>
                 <Section>
                     <WorkGridItem title='DBMS Python App' thumbnail={thumbDBMS} link='https://github.com/bigsaso/CPS510_PythonSQL'>
                         A Python App connected to a DBMS developed during the course of the semester in OracleSQL.<br/>
-                        On the GitHub repository you can find all the files as well as the pdf of a detailed project report.
+                        <Badge>Report Available</Badge>
                     </WorkGridItem>
                 </Section>
                 <Section>
                     <WorkGridItem title='C Data Analysis' thumbnail={thumbLakes} link='https://github.com/bigsaso/C_Project_F2019'>
                         Final Project for Academic Course that analyzes data from the Canadian Lakes using the C Programming Language.<br/>
-                        On the GitHub repository you can find all the files as well as the pdf of a detailed report of the findings.
+                        <Badge>Report Available</Badge>
                     </WorkGridItem>
                 </Section>
                 <Section>
