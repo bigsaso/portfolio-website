@@ -1,4 +1,4 @@
-import {Container,Heading,Badge,Stack,Box,Divider} from "@chakra-ui/react";
+import {Container,Heading,/*Badge,*/Stack,Box,Divider} from "@chakra-ui/react";
 import Image from 'next/image'
 import Section from "../components/layouts/section";
 import { BioSec, BioYear } from "../components/layouts/bio"
