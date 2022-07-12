@@ -123,6 +123,7 @@ const Experience = () => {
                     <JobSec>
                         <JobYears>Feb. 2019 - Present | ML Property Maintenance (Canada)</JobYears>
                         <br/>• Deal with basic financial tasks, such as making invoices and communicating with the accountant.<br/>
+                        • Created script to automate the process of invoice creation, making the process 80% faster.<br/>
                         • Communicate with clients and/or employees when any type of problem arises.<br/>
                     </JobSec>
                     <JobSec>
