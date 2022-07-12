@@ -23,22 +23,22 @@ const Experience = () => {
                 <p>
                     <br/>• C/Java/JavaFX Programming<br/>
                     • Advanced Algorithms and Data Structures<br/>
-                    • Computer Organization and Architecture &nbsp;
+                    • Computer Organization and Architecture<br/>
                         {/* <Badge borderRadius='full' px='2' colorScheme='teal'>
                             In Progress
                         </Badge><br/> */}
                     • MCU Programming in Assembly and FPGA board programming<br/>
                     • Electric and Electronic Circuits<br/>
                     • DBMS in Oracle SQL and mySQL<br/>
-                    • Operating Systems &nbsp;
+                    • Operating Systems<br/>
                         {/* <Badge borderRadius='full' px='2' colorScheme='teal'>
                             In Progress
                         </Badge><br/> */}
-                    • Software Design Architecture &nbsp;
+                    • Software Design Architecture<br/>
                         {/* <Badge borderRadius='full' px='2' colorScheme='teal'>
                             In Progress
                         </Badge><br/> */}
-                    • Software Requirements Engineering &nbsp;
+                    • Software Requirements Engineering{/* &nbsp;*/}<br/>
                     {/* <Badge borderRadius='full' px='2' colorScheme='teal'>
                         In Progress
                     </Badge> */}
