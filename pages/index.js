@@ -32,7 +32,7 @@ const Page = () =>{
                 <Paragraph>
                 Hello! I&apos;m Salvatore and I am a software engineering student based in Toronto, Ontario. I absolutely love computers and have a passion for anything related 
                 to them. I approach every day with the drive to innovate and contribute to society through simplifying daily tasks and solving pressing issues within the 
-                technological space through the utlization of my programming knowledge.<br/><br/>
+                technological space through the utilization of my programming knowledge.<br/><br/>
                 
                 When I am not studying or working, I am an avid gamer and love to read. Being able to keep my mind occupied whether its through expanding my knowledge in other 
                 subject areas through different texts or conversations with my friends, these activities excite me and help me bring a refreshed perspective on a regular basis.
@@ -81,6 +81,14 @@ const Page = () =>{
                 <BioSec>
                     <BioYear>2019</BioYear>
                     Started my 1st Year of Software Engineering at Ryerson University and made the Dean&apos;s List.
+                </BioSec>
+                <BioSec>
+                    <BioYear>2022</BioYear>
+                    Made the Dean&apos;s List in my 3rd Year of Software Engineering at Ryerson University.
+                </BioSec>
+                <BioSec>
+                    <BioYear>2022</BioYear>
+                    Got my first internship at AMD with the Data Center GPU Partner Engineering team.
                 </BioSec>
             </Section>
             <Section delay={1}>

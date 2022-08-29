@@ -120,6 +120,13 @@ const Experience = () => {
                 <Heading as='h3' fontSize={20} mb={4} variant='section-title'>
                     Work Experience
                 </Heading>
+                    {/* <JobSec>
+                        <JobYears>May 2022 - August 2023 | AMD (Advanced Micro Devices) (Canada)</JobYears>
+                        <br/>• Manage a data center Lab with 30+ servers to assist AMD's corporate customers.<br/>
+                        • Rack-mount Servers, Open Servers and Work with their Hardware, Install OS, Flash firmware on GPUs, Reproduce and debug customers' issues with our GPUs.<br/>
+                        • Expanded the team's Server/GPU inventory website by adding an automatic subnet discovery to keep track of all devices attached to our network and automatic scan of GPUs to keep track of their firmware version, hardware level, Serial Numbers, etc.<br/>
+                        • This improved the team's productivity by x% by automating the process of Servers and GPUs discovery and relating GPUs to the respective Server they are attached to.<br/>
+                    </JobSec> */}
                     <JobSec>
                         <JobYears>Feb. 2019 - Present | ML Property Maintenance (Canada)</JobYears>
                         <br/>• Deal with basic financial tasks, such as making invoices and communicating with the accountant.<br/>
