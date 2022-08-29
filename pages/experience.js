@@ -59,7 +59,9 @@ const Experience = () => {
                             ➥Java/JavaFX<br/>
                             ➥Python<br/>
                             ➥MATLAB<br/>
-                            ➥HTML, JS, CSS<br/>
+                            ➥Full-Stack Web Development<br/>
+                            &ensp;➥Front-End: HTML, JS, CSS, NodeJS/React
+                            &ensp;➥Back-End: Flask+mySQL, Java+Tomcat+mySQL, Custom APIs
                         </p>
                     </Box>
                     <Box w='8xl'>
