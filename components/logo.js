@@ -11,11 +11,8 @@ align-items: center;
 height: 30px;
 line-height: 20px;
 padding: 10px;
-&:hover img{
-    transform: rotate(20deg)
-}
 &:hover {
-    transform: scale(1.05)
+    transform: scale(3)
 }
 `
 
