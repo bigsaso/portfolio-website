@@ -1,4 +1,4 @@
-import {Container, Box, Heading, Image, Button, Stack, Divider} from "@chakra-ui/react"
+import {Container, Box, Heading, Image, Button, Stack} from "@chakra-ui/react"
 import { ChevronRightIcon } from "@chakra-ui/icons"
 import { GrDocumentPdf } from 'react-icons/gr'
 import { BioSec, BioYear } from "../components/layouts/bio"
