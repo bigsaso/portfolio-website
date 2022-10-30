@@ -12,7 +12,7 @@ height: 30px;
 line-height: 20px;
 padding: 10px;
 &:hover {
-    transform: scale(3)
+    transform: scale(1.05)
 }
 `
 
