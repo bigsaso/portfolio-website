@@ -17,7 +17,8 @@ const Page = () =>{
                         Salvatore Logozzo
                     </Heading>
                     <p>
-                        3rd Year Software Engineering Student @RyersonUniversity
+                        4th Year Software Engineering Student @RyersonUniversity<br/><br/>
+                        Currently working as a Co-op @AMD
                     </p>
                 </Box>
                 <Box flexShrink={0} mt={{base:4, md:0}} ml={{md:6}} align='center'>
@@ -116,10 +117,6 @@ const Page = () =>{
                     &#128218;Reading <br/>
                 </p>
             </Section>
-            <footer>
-                <Divider />
-                <p><a href="http://www.freepik.com" target="_blank" rel="noreferrer">Logos Designed by Freepik</a></p>
-            </footer>
         </Container>
         </Layout>
     )
