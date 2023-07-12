@@ -115,7 +115,7 @@ const Experience = () => {
                 </BioSec>
                 <BioSec>
                     <BioYear>November 2021</BioYear>
-                    Software Fundamentals Workhsop Certificate - Unix, Git, SQL, Python
+                    Software Fundamentals Workshop Certificate - Unix, Git, SQL, Python
                 </BioSec>
             </Section>
             <Section delay={2}>
