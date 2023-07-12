@@ -106,6 +106,10 @@ const Experience = () => {
                     Certifications and Awards
                 </Heading>
                 <BioSec>
+                    <BioYear>July 2023</BioYear>
+                    Udemy Machine Learning, Data Science, and DeepLearning with Python
+                </BioSec>
+                <BioSec>
                     <BioYear>November 2021</BioYear>
                     Software Fundamentals Workshop Certificate - Unix, Git, SQL, Python
                 </BioSec>
