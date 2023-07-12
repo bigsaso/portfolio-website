@@ -21,7 +21,7 @@ const Experience = () => {
                     Currently in 3rd Year, Expected Grad: May 2024
                 </p>
                 <p>
-                    <br/>• C/Java/JavaFX Programming<br/>
+                    <br/>• C/C++/Java/Python/Javascript Programming<br/>
                     • Advanced Algorithms and Data Structures<br/>
                     • Computer Organization and Architecture<br/>
                         {/* <Badge borderRadius='full' px='2' colorScheme='teal'>
@@ -55,7 +55,7 @@ const Experience = () => {
                             Software Skills
                         </Heading>
                         <p>
-                            ➥C, C#<br/>
+                            ➥C, C++, C#<br/>
                             ➥Java/JavaFX<br/>
                             ➥Python<br/>
                             ➥MATLAB<br/>
