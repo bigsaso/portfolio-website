@@ -106,16 +106,16 @@ const Experience = () => {
                     Certifications and Awards
                 </Heading>
                 <BioSec>
-                    <BioYear>April 2017</BioYear>
-                    Microsoft Office Specialist in Excel 2013
+                    <BioYear>November 2021</BioYear>
+                    Software Fundamentals Workshop Certificate - Unix, Git, SQL, Python
                 </BioSec>
                 <BioSec>
                     <BioYear>June 2019</BioYear>
                     Student Ambassador Award International Languages 2018-2019
                 </BioSec>
                 <BioSec>
-                    <BioYear>November 2021</BioYear>
-                    Software Fundamentals Workshop Certificate - Unix, Git, SQL, Python
+                    <BioYear>April 2017</BioYear>
+                    Microsoft Office Specialist in Excel 2013
                 </BioSec>
             </Section>
             <Section delay={2}>
