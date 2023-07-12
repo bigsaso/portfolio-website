@@ -110,6 +110,10 @@ const Experience = () => {
                     Udemy Machine Learning, Data Science, and DeepLearning with Python
                 </BioSec>
                 <BioSec>
+                    <BioYear>June 2023</BioYear>
+                    AMD Spotlight Award
+                </BioSec>
+                <BioSec>
                     <BioYear>November 2021</BioYear>
                     Software Fundamentals Workshop Certificate - Unix, Git, SQL, Python
                 </BioSec>
@@ -128,10 +132,13 @@ const Experience = () => {
                 </Heading>
                     <JobSec>
                         <JobYears>May 2022 - Present | AMD (Advanced Micro Devices) (Canada)</JobYears>
-                        <br/>• Manage a data center Lab with 30+ servers to assist AMD&apos;s corporate customers.<br/>
+                        <br/>• Received a Spotlight Award for porting and delivering a tested and working service to a Partner.<br/>
+                        • Created a web app to automate the running and creation of tests, and to visualize results at a glance.<br/>
+                        • Worked on the bring-up and early testing of MI300A.<br/>
+                        • Manage a Data Center Lab with 30+ servers to assist AMD&apos;s corporate partners.<br/>
                         • Rack-mount Servers, Open Servers and Work with their Hardware, Install OS, Flash firmware on GPUs, Reproduce and debug customers&apos; issues with our GPUs.<br/>
                         • Expanded the team&apos;s Server/GPU inventory website by adding an automatic subnet discovery to keep track of all devices attached to our network and automatic scan of GPUs to keep track of their firmware version, hardware level, Serial Numbers, etc.<br/>
-                        • This improved the team&apos;s productivity by automating the process of Servers and GPUs discovery and relating GPUs to the respective Server they are attached to.<br/>
+                        • Assisted with testing and validating tools, as well as write documentations.<br/>
                     </JobSec>
                     <JobSec>
                         <JobYears>Feb. 2019 - Present | ML Property Maintenance (Canada)</JobYears>
