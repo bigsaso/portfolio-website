@@ -131,7 +131,7 @@ const Experience = () => {
                     Work Experience
                 </Heading>
                     <JobSec>
-                        <JobYears>May 2022 - Present | AMD (Advanced Micro Devices) (Canada)</JobYears>
+                        <JobYears>May 2022 - August 2023 | AMD (Advanced Micro Devices) (Canada)</JobYears>
                         <br/>• Received a Spotlight Award for porting and delivering a tested and working service to a Partner.<br/>
                         • Created a web app to automate the running and creation of tests, and to visualize results at a glance.<br/>
                         • Worked on the bring-up and early testing of MI300A.<br/>
