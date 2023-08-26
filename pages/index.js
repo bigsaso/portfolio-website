@@ -17,8 +17,8 @@ const Page = () =>{
                         Salvatore Logozzo
                     </Heading>
                     <p>
-                        4th Year Software Engineering Student @RyersonUniversity<br/><br/>
-                        Currently working as a Co-op @AMD
+                        4th Year Software Engineering Student @TMU<br/><br/>
+                        Former Partner Engineering Intern @AMD
                     </p>
                 </Box>
                 <Box flexShrink={0} mt={{base:4, md:0}} ml={{md:6}} align='center'>

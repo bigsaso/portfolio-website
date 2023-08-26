@@ -16,7 +16,7 @@ const Experience = () => {
                     Academics & Relevant Coursework
                 </Heading>
                 <p>
-                    &#127891;<b>Toronto Metropolitan University (formerly known as Ryerson University)</b><br/>
+                    &#127891;<b>Toronto Metropolitan University (formerly Ryerson University)</b><br/>
                     BEng in Software Engineering, Current GPA: 3.46<br/>
                     Currently in 4th Year, Expected Grad: May 2024
                 </p>
