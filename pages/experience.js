@@ -16,9 +16,9 @@ const Experience = () => {
                     Academics & Relevant Coursework
                 </Heading>
                 <p>
-                    &#127891;<b>Ryerson University</b><br/>
+                    &#127891;<b>Toronto Metropolitan University (formerly known as Ryerson University)</b><br/>
                     BEng in Software Engineering, Current GPA: 3.46<br/>
-                    Currently in 3rd Year, Expected Grad: May 2024
+                    Currently in 4th Year, Expected Grad: May 2024
                 </p>
                 <p>
                     <br/>• C/C++/Java/Python/Javascript Programming<br/>
