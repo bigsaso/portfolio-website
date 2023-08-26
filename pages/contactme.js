@@ -21,7 +21,7 @@ const ContactMe = () => {
                     <Button my={1} rightIcon={<EmailIcon />} colorScheme='teal' onClick={() =>{
                         var company = document.getElementById("company").value;
                         var message = document.getElementById("message").value;
-                        router.push('mailto:salvatore.logozzo@ryerson.ca?subject=' + company + '&body=' + message);
+                        router.push('mailto:sal.logozzo@gmail.com?subject=' + company + '&body=' + message);
                     }
                     }>Send externally via Email</Button>
                 </SimpleGrid>
