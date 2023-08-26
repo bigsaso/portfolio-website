@@ -91,6 +91,10 @@ const Page = () =>{
                     <BioYear>2022</BioYear>
                     Got my first internship at AMD with the Data Center GPU Partner Engineering team.
                 </BioSec>
+                <BioSec>
+                    <BioYear>2023</BioYear>
+                    Received a Spotlight Award at AMD for porting and delivering a service that will run on the World's fastest supercomputer.
+                </BioSec>
             </Section>
             <Section delay={1}>
                 <Heading as='h3' variant='section-title'>
