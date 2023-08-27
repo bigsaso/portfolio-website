@@ -93,7 +93,7 @@ const Page = () =>{
                 </BioSec>
                 <BioSec>
                     <BioYear>2023</BioYear>
-                    Received a Spotlight Award at AMD for porting and delivering a service that will run on the World's fastest supercomputer.
+                    Received a Spotlight Award at AMD for porting and delivering a service that will run on the World&apos;s fastest supercomputer.
                 </BioSec>
             </Section>
             <Section delay={1}>
