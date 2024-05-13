@@ -1,11 +1,11 @@
-import {Container, Box, Heading, Image, Button, Stack} from "@chakra-ui/react"
 import { ChevronRightIcon } from "@chakra-ui/icons"
-import { GrDocumentPdf } from 'react-icons/gr'
-import { BioSec, BioYear } from "../components/layouts/bio"
+import { Box, Button, Container, Heading, Image, Stack } from "@chakra-ui/react"
 import NextLink from 'next/link'
-import Section from '../components/layouts/section'
-import Paragraph from '../components/layouts/paragraph'
+import { GrDocumentPdf } from 'react-icons/gr'
 import Layout from "../components/layouts/article"
+import { BioSec, BioYear } from "../components/layouts/bio"
+import Paragraph from '../components/layouts/paragraph'
+import Section from '../components/layouts/section'
 
 const Page = () =>{
     return(
@@ -17,8 +17,8 @@ const Page = () =>{
                         Salvatore Logozzo
                     </Heading>
                     <p>
-                        4th Year Software Engineering Student @TMU<br/><br/>
-                        Former Partner Engineering Intern @AMD
+                        Systems Design Engineering 2 @AMD<br/><br/>
+                        Computer Engineering Alumni @TMU
                     </p>
                 </Box>
                 <Box flexShrink={0} mt={{base:4, md:0}} ml={{md:6}} align='center'>
@@ -94,6 +94,10 @@ const Page = () =>{
                 <BioSec>
                     <BioYear>2023</BioYear>
                     Received a Spotlight Award at AMD for porting and delivering a service that will run on the World&apos;s fastest supercomputer.
+                </BioSec>
+                <BioSec>
+                    <BioYear>2024</BioYear>
+                    Graduated from TMU with honors with a CGPA of 3.67
                 </BioSec>
             </Section>
             <Section delay={1}>
